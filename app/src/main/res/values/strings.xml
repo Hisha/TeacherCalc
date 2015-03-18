@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">TeacherCalc</string>
+    <string name="app_version">1.0</string>
+    <string name="app_copyright">Copyright \u00A9 2015 Hisha Tech</string>
+<string
+    name="hishatechPlayStoreURL">https://play.google.com/store/search?q=hishatech&amp;hl=en</string>
+    <string name="hishatechString">Play Store: HishaTech</string>
+
+    <!-- About Activity Related -->
+    <string name="aboutAct">About</string>
+
+    <!-- Main Activity Related -->
+    <string name="lblQuestionCount">Question Count:</string>
+    <string name="btnGetAnswer">Get Answer</string>
+
+    <!-- QuestionValueAnswer Activity Related -->
+    <string name="QVA_Column1"># Missed</string>
+    <string name="QVA_Column2">% Right</string>
+    <string name="QVA_Column3">Grade</string>
+
+    <!-- GradeRange Activity Related -->
+    <string name="lblA">A</string>
+    <string name="lblB">B</string>
+    <string name="lblC">C</string>
+    <string name="lblD">D</string>
+    <string name="lblE">E</string>
+    <string name="lblEF">E/F</string>
+    <string name="lblF">F</string>
+    <string name="cbxEisF">Set E = F</string>
+    <string name="btnGRDone">Save \u0026 Return</string>
+    <string name="mnuOptions">Grade Range</string>
+
+    <!-- Preferences Activity Related -->
+    <string name="mnuPref">Options</string>
+    <string name="prefBackSummary">Summary goes here!!!</string>
+    <string name="prefBackTitle">Title Here!!</string>
+    <string name="ddlBackgroundTitle">Choose a Background</string>
+
+</resources>

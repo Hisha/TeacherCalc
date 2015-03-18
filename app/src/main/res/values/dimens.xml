@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btnRow_margin">20dip</dimen>
+    <dimen name="lblNothingHeight">2dip</dimen>
+    <dimen name="lblGrade_margin">20dip</dimen>
+    <dimen name="lblGrade_half_margin">8dip</dimen>
+    <dimen name="lblGrade_font_size">30sp</dimen>
+    <dimen name="txtGrade_width">50dip</dimen>
+    <dimen name="btnGRDone_width">200dip</dimen>
+    <dimen name="txtQuestionCount">50dip</dimen>
+    <dimen name="txtQuestionCount_margin">15dip</dimen>
+    <dimen name="lblQuestionCount_margin">20dip</dimen>
+
+</resources>

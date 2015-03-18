@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/About"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/aboutAct"/>
+
+    <item
+        android:id="@+id/Options"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:title="@string/mnuOptions"/>
+    <!--
+    <item
+        android:id="@+id/Preferences"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/mnuPref"/>
+    -->
+
+</menu>

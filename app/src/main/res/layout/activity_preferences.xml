@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:summary="@string/prefBackSummary"
+        android:title="@string/prefBackTitle" >
+
+        <Spinner
+            android:id="@+id/ddlBackground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/BackgroundList"
+            android:prompt="@string/ddlBackgroundTitle" >
+        </Spinner>
+    </PreferenceCategory>
+
+</PreferenceScreen>
